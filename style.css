@@ -79,6 +79,21 @@
     filter: grayscale(1);
 }
 
+.ex-7-img:hover {
+    filter: grayscale(5);
+    transition: 3s;
+}
+
+.ex-8-img:hover {
+    filter: grayscale(5);
+    border-radius: 10px;
+    transition: 3s;
+    width: 300px;
+}
+
+
+
+
 
 /* esercizio 9 */
 .ex-9-img {

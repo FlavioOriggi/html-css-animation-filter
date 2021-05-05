@@ -125,10 +125,10 @@
 }
 
 .ex-11-icon:hover{
-    animation: spin 3s alternate-reverse;
+    animation: spinUnpoco 3s alternate-reverse;
 }
 
-@keyframes spin { 
+@keyframes spinUnpoco { 
     0% {
         transform: rotate(0);
     }
@@ -140,8 +140,6 @@
     100% {
         transform: rotate(0);
     }
-
-
 }
 
 
